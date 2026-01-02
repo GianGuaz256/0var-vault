@@ -1,0 +1,13 @@
+{
+  "name": "mellow-pendle-vault",
+  "private": true,
+  "version": "0.0.1",
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "fmt:sol": "forge fmt",
+    "test": "forge test",
+    "test:fork:arb": "forge test --fork-url $ARBITRUM_RPC_URL -vvv"
+  }
+}
+
+

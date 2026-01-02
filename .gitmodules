@@ -1,0 +1,3 @@
+[submodule "lib/flexible-vaults"]
+	path = lib/flexible-vaults
+	url = https://github.com/mellow-finance/flexible-vaults
